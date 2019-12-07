@@ -8,5 +8,5 @@ int main()
 	{
 		printf("%.2lf ", degree[i]);
 	}
-	return 0;
+	
 }
